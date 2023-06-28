@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
-	shallow = true
-	registered = true
 [submodule "MixAll"]
 	path = MixAll
 	url = https://github.com/cran/MixAll
-	shallow = true
-	registered = true
 [submodule "rtkore"]
 	path = rtkore
 	url = https://github.com/cran/rtkore
-	shallow = true
-	registered = true
