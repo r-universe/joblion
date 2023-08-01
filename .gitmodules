@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "blockcluster"]
-	path = blockcluster
-	url = https://github.com/cran/blockcluster
 [submodule "MixAll"]
 	path = MixAll
 	url = https://github.com/cran/MixAll
+[submodule "blockcluster"]
+	path = blockcluster
+	url = https://github.com/cran/blockcluster
 [submodule "rtkore"]
 	path = rtkore
 	url = https://github.com/cran/rtkore
